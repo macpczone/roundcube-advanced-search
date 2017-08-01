@@ -75,8 +75,7 @@ If upgrading from 1.2.0 or lower, you *must* review the config file.
 * Ludovicy Steve
 * Moules Chris
 * [Global Media Systems](http://www.gms.lu)
-*
+
 * Updated by Alex S Grebenschikov (www.poralix.com)
 * to make it compatible with RoundCube 1.3.0
 * Last modified: Tue Aug  1 06:41:46 CEST 2017
-*

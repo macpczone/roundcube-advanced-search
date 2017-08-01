@@ -19,7 +19,7 @@ Advantages:
 * It uses minified versions of the JavaScript
 
 ## Requirements
-Version 2.0.0 requires Roundcube 0.9.4 or later
+Version 2.0.1 requires Roundcube 1.3.0 or later
 
 ## License
 
@@ -36,7 +36,7 @@ folder for details on the skin license.
 ### GIT :
 * Clone the GitHub repository to 'advanced_search':
 
- >     git clone git://github.com/GMS-SA/roundcube-advanced-search.git advanced_search
+ >     git clone git://github.com/poralix/roundcube-advanced-search.git advanced_search
 
 * Change to the 'stable' branch:
 
@@ -75,3 +75,8 @@ If upgrading from 1.2.0 or lower, you *must* review the config file.
 * Ludovicy Steve
 * Moules Chris
 * [Global Media Systems](http://www.gms.lu)
+*
+* Updated by Alex S Grebenschikov (www.poralix.com)
+* to make it compatible with RoundCube 1.3.0
+* Last modified: Tue Aug  1 06:41:46 CEST 2017
+*

@@ -2,7 +2,7 @@
 /**
  * Processing an advanced search over an E-Mail Account
  *
- * @version 2.1.5
+ * @version 2.1.6
  * @licence GNU GPLv3+
  * @author  Wilwert Claude
  * @author  Ludovicy Steve
@@ -71,7 +71,7 @@ class advanced_search extends rcube_plugin
                 $this->config['criteria'][$key] = $this->gettext($key);
             }
         }
-        $this->include_script('advanced_search.js');
+        $this->include_script('advanced_search.min.js');
 
         if ($this->rc->task == 'mail') {
             $file = 'skins/' . $this->skin . '/advanced_search.css';

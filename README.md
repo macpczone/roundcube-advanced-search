@@ -11,7 +11,7 @@ the [plugin repository for Roundcube](http://plugins.roundcube.net/)
 
 After install, 'Advanced search' will show up under the 'more' menu.
 
-Please use the _'stable'_ brach for deployment.
+Please use the _'stable'_ branch for deployment.
 
 Advantages:
 
@@ -36,7 +36,7 @@ folder for details on the skin license.
 ### GIT :
 * Clone the GitHub repository to 'advanced_search':
 
- >     git clone git://github.com/poralix/roundcube-advanced-search.git advanced_search
+ >     git clone git://github.com/macpczone/roundcube-advanced-search.git advanced_search
 
 * Change to the 'stable' branch:
 
